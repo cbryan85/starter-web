@@ -8,6 +8,8 @@ This is example is to show stuff works good
 
 ## Purpose
 
+Mostly purposeful text belongs here
+
 ## Deployment
 
 Sample website with plenty of files for demos
