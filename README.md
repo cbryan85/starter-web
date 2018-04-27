@@ -24,4 +24,4 @@ Last one, ok, one more.
 
 ### Copyright
 
-2018 Chad Bryan
+2018 Chad Bryan. Improve. Erase. Destroy. 
