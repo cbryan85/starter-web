@@ -13,3 +13,4 @@ Please tell me about my work.
 
     HTML5, CSS3
     jQuery, Modernizr
+	Git training
