@@ -16,6 +16,8 @@ Sample website with plenty of files for demos
 
 ## How To Contribute
 
+Please fork this repositoryand then issue Pull request for review
+
 Last one, ok, one more. 
 
 ### Copyright
