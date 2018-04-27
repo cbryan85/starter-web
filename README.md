@@ -6,6 +6,8 @@ This repository is for showing how Git and GitHub work
 
 This is example is to show stuff works good
 
+Adding some more text for rebasing example
+
 ## Purpose
 
 Mostly purposeful text belongs here
