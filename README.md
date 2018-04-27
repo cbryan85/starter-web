@@ -6,7 +6,7 @@ This repository is for showing how Git and GitHub work
 
 This is example is to show stuff works good
 
-Adding some more text for rebasing example
+Adding some more text for rebasing example, more changes from myfeature branch too. 
 
 ## Purpose
 
