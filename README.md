@@ -17,3 +17,7 @@ Sample website with plenty of files for demos
 ## How To Contribute
 
 Last one, ok, one more. 
+
+### Copyright
+
+2018 Chad Bryan
